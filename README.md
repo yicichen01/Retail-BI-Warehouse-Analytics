@@ -10,13 +10,13 @@ The analysis focuses on a set of business questions around Store 5 and Store 8, 
 
 ## Dimensional Model
 
-![Dimensional Model](assets/dimensional_model.png)
+![Dimensional Model](assets/erd.png)
 
 This dimensional model organizes sales, targets, products, stores, channels, customers, resellers, dates, and geography into a warehouse structure that supports flexible slicing, aggregation, and decision support.
 
 ## Dashboard Output
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](assets/dashboard.png)
 
 The final Tableau dashboard combines target-vs-actual analysis, product-category performance, weekday trends, store distribution, and store-type comparisons into one decision-support view.
 
