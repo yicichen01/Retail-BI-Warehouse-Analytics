@@ -1,4 +1,4 @@
--- What should be done in the next year to maximize store profits?
+-- 1.2 What should be done in the next year to maximize store profits?
 DROP VIEW IF EXISTS View_StoreProductSales;
 
 CREATE SECURE VIEW View_StoreProductSales as
