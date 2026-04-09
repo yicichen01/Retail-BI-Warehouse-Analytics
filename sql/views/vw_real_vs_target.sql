@@ -1,4 +1,4 @@
----- 1. Give an overall assessment of stores number 5 and 8’s sales.
+---- 1.1 Give an overall assessment of stores number 5 and 8’s sales.
 -- How are they performing compared to target? Will they meet their 2014 target?
 -- Should either store be closed? Why or why not?
 DROP VIEW IF EXISTS View_RealvsTarget;
