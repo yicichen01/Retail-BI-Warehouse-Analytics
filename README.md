@@ -6,7 +6,7 @@ It was designed to support performance-to-target analysis, profit-oriented decis
 
 ## Live Dashboard
 
-**[Try the Live Dashboard here]([https://semantic-bi-workflow.streamlit.app/](https://public.tableau.com/app/profile/yici.chen/viz/RetailBIWarehouseAnalytics/StorePerformanceDashboard#1))**
+**[Try the Live Dashboard here]([https://semantic-bi-workflow.streamlit.app/](https://public.tableau.com/app/profile/yici.chen/viz/RetailBIWarehouseAnalytics/StorePerformanceDashboard#1)**
 
 ## Business Context
 
