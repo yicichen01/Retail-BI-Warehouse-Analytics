@@ -4,6 +4,10 @@ This project translates a retail business scenario into a full business intellig
 
 It was designed to support performance-to-target analysis, profit-oriented decision making, and store-level strategy recommendations.
 
+## Live Dashboard
+
+**[Try the Live Dashboard here]([https://semantic-bi-workflow.streamlit.app/](https://public.tableau.com/app/profile/yici.chen/viz/RetailBIWarehouseAnalytics/StorePerformanceDashboard#1))**
+
 ## Business Context
 
 The analysis focuses on a set of business questions around Store 5 and Store 8, including target attainment, closure decisions, profit maximization, bonus allocation, weekday sales trends, and differences between stores in single-store vs. multi-store states. See `docs/business_context.md` for details.
@@ -47,7 +51,3 @@ The project was built in five stages:
 - `docs/dashboard_storytelling.md` dashboard logic and business storytelling  
 - `sql/` optional space for staging, dimension, fact, and view SQL scripts  
 - `links.md` external links including Tableau Public  
-
-## Live Dashboard
-
-See the published Tableau dashboard in `links.md`.
